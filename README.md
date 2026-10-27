@@ -19,3 +19,4 @@ used in the following ways in this assignment:
 
 - **Brainstorming/Explanations**
 - **Troubleshooting**
+- **Architecture/Structure Improvment**
